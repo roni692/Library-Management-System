@@ -1,6 +1,4 @@
-<?php 
-//
-include "header.html"?>
+<?phpinclude "header.html"?>
  
 <div id="section">
 <ul id="menu">
